@@ -1,0 +1,12 @@
+D:\Practice\Apr22\ID-1246426\Q1\ProductCatalog\ProductCatalog\bin\Debug\ProductDB.mdf
+D:\Practice\Apr22\ID-1246426\Q1\ProductCatalog\ProductCatalog\bin\Debug\ProductDB_log.ldf
+D:\Practice\Apr22\ID-1246426\Q1\ProductCatalog\ProductCatalog\bin\Debug\ProductCatalog.exe.config
+D:\Practice\Apr22\ID-1246426\Q1\ProductCatalog\ProductCatalog\bin\Debug\ProductCatalog.exe
+D:\Practice\Apr22\ID-1246426\Q1\ProductCatalog\ProductCatalog\bin\Debug\ProductCatalog.pdb
+D:\Practice\Apr22\ID-1246426\Q1\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.csprojAssemblyReference.cache
+D:\Practice\Apr22\ID-1246426\Q1\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.Form1.resources
+D:\Practice\Apr22\ID-1246426\Q1\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.Properties.Resources.resources
+D:\Practice\Apr22\ID-1246426\Q1\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.csproj.GenerateResource.cache
+D:\Practice\Apr22\ID-1246426\Q1\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.csproj.CoreCompileInputs.cache
+D:\Practice\Apr22\ID-1246426\Q1\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.exe
+D:\Practice\Apr22\ID-1246426\Q1\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.pdb
